@@ -28,7 +28,7 @@ After you're finished please remove all the comments and instructions!
 
 <div align="center">
 
-  <h3><b>Leaderboard</b></h3>
+  <h3><b>Math Magicians</b></h3>
 
 </div>
 
