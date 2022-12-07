@@ -59,11 +59,11 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Leaderboard] <a name="about-project"></a>
+# 📖 [Math Magicians] <a name="about-project"></a>
 
 > Describe your project in 1 or 2 sentences.
 
-**[Leaderboard]** is a website displays scores submitted by different players. It also allows you to submit your score. Project is build with Webpack.
+**[Math Magicians]** is single page website which will allows you to perform simple calculation just like calculator. Website is react based.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -74,7 +74,7 @@ After you're finished please remove all the comments and instructions!
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://webpack.js.org/">Webpack</a></li>
+    <li><a href="https://reactjs.org/">Webpack</a></li>
   </ul>
 </details>
 
@@ -84,8 +84,7 @@ After you're finished please remove all the comments and instructions!
 
 > Describe between 1-3 key features of the application.
 
-- **[You can view score]**
-- **[You can add new score]**
+- **[You can perform calculations]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -150,7 +149,7 @@ Example command:
 ### Usage
 
 To run the project, execute the following command:
-npm run build
+npm install
 npm start
 
 <!--
@@ -181,6 +180,7 @@ Example command:
 
  - Visual Studio Code
  - Github
+ - Node.js
  
 ## Instuctions to set up project locally
  - Download zip file of the project
