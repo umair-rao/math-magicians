@@ -1,6 +1,6 @@
 import './App.css';
 
-import React, { Component } from 'react'
+import React, { Component } from 'react';
 import Calculator from './Components/Calculator';
 
 // eslint-disable-next-line react/prefer-stateless-function
