@@ -25,7 +25,7 @@ export default class Calculator extends Component {
           <button type="button" className="cal-btn" onClick={this.clickEvent}>AC</button>
           <button type="button" className="cal-btn" onClick={this.clickEvent}>+/-</button>
           <button type="button" className="cal-btn" onClick={this.clickEvent}>%</button>
-          <button type="button" className="orange-btn" onClick={this.clickEvent}>+-</button>
+          <button type="button" className="orange-btn" onClick={this.clickEvent}>÷</button>
         </div>
         <div className="row2">
           <button type="button" className="cal-btn" onClick={this.clickEvent}>7</button>
