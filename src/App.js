@@ -1,15 +1,18 @@
 import './App.css';
 
-import React, { Component } from 'react';
-import Calculator from './Components/Calculator';
+import React from 'react';
+// import Calculator from './Components/Calculator';
+import Navbar from './Components/Navbar';
+import Quote from './Components/pages/Quote';
+// import Home from './Components/pages/Home';
 
-// eslint-disable-next-line react/prefer-stateless-function
-export default class App extends Component {
-  render() {
-    return (
-      <div>
-        <Calculator />
-      </div>
-    );
-  }
+export default function App() {
+  return (
+    <div>
+      <Navbar />
+      {/* <Calculator /> */}
+      {/* <Home /> */}
+      <Quote />
+    </div>
+  );
 }

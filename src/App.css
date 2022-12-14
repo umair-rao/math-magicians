@@ -8,13 +8,13 @@
 
 body {
   font-family: 'Poppins', sans-serif;
-  background-color: black;
+  background-color: rgb(47, 47, 47);
 }
 
 .calculator-display {
   position: fixed;
-  top: 25%;
-  left: 35%;
+  top: 20%;
+  left: 55%;
   color: #fff;
   font-size: 2rem;
   padding: 1rem;
@@ -51,4 +51,38 @@ body {
 
 .orange-btn {
   background-color: rgb(245, 145, 62);
+}
+
+/* Nabar CSS */
+
+.navbarContainer {
+  background-color: rgb(133, 134, 148);
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 4rem;
+}
+
+.navList li {
+  list-style-type: none;
+  display: inline;
+  padding: 15px;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.homepage {
+  color: #fff;
+  margin-top: 5%;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  font-size: 25px;
+}
+
+.quotes {
+  color: #fff;
+  font-size: 35px;
+  margin-left: 10%;
+  margin-top: 10%;
 }
