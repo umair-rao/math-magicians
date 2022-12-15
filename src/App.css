@@ -69,6 +69,11 @@ body {
   padding: 15px;
   font-size: 25px;
   font-weight: bold;
+  text-decoration: none;
+}
+
+.navLink {
+  text-decoration: none;
 }
 
 .homepage {
@@ -78,6 +83,10 @@ body {
   justify-content: center;
   align-items: center;
   font-size: 25px;
+}
+
+.homepage-detail {
+  margin: 2% 5% 0.2% 5%;
 }
 
 .quotes {
