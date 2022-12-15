@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div
+  className="quotes"
+>
+  <li>
+    Pure mathematics is, in its way, the poetry of logical ideas.
+  </li>
+  <li>
+    Mathematics is the art of giving the same name to different things
+  </li>
+  <li>
+    Mathematics is the art of giving the same name to different thing
+  </li>
+</div>
+`;
